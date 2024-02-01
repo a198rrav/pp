@@ -1,0 +1,26 @@
+.heading
+{
+width: 100%;
+}
+.heading button{
+    background-color: darkgoldenrod;
+    float: right;
+    
+}
+canvas{
+    border: 3px solid white;
+    border-radius:  20px;
+    box-shadow: 6px 6px 6px orange;
+    
+}
+.modal-dialog{
+    width: 70%;
+
+}
+.modal-body{
+    text-align: left;
+    font-size: 21px;
+}
+#start,#status,#restart{
+    font-size: 22px;
+}
